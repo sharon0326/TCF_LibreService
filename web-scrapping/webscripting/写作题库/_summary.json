@@ -1,0 +1,30 @@
+{
+  "scraped_at": "2026-03-12T02:24:59.787510Z",
+  "index_url": "https://reussir-tcfcanada.com/correction-des-sujets-dexpression-ecrite-v-pro/",
+  "results": [
+    {
+      "year": 2025,
+      "month": 12,
+      "label": "Décembre 2025",
+      "url": "https://reussir-tcfcanada.com/decembre-2025-correction-expression-ecrite/",
+      "output": "D:\\test\\web-scrapping\\webscripting\\写作题库\\2025-12_decembre-2025.json",
+      "error": null
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "label": "Janvier 2026",
+      "url": "https://reussir-tcfcanada.com/janvier-2026-correction-expression-ecrite/",
+      "output": "D:\\test\\web-scrapping\\webscripting\\写作题库\\2026-01_janvier-2026.json",
+      "error": null
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "label": "Février 2026",
+      "url": "https://reussir-tcfcanada.com/fevrier-2026-correction-expression-ecrite/",
+      "output": "D:\\test\\web-scrapping\\webscripting\\写作题库\\2026-02_fevrier-2026.json",
+      "error": null
+    }
+  ]
+}

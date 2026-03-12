@@ -1,0 +1,639 @@
+{
+  "url": "https://reussir-tcfcanada.com/juillet-2025-correction-expression-orale-tache-2-pro/",
+  "scraped_at": "2026-02-22T09:22:38.877330Z",
+  "page_title": "Juillet 2025 : Correction Expression Orale Tâche 2 Pro - Réussir TCF Canada",
+  "sections": [
+    {
+      "title": "Je suis votre voisin(e). Vous venez d’arriver au Canada et vous me demandez des informations sur les transports publics (tarifs, organisation, types de véhicules, etc.).",
+      "questions": [
+        "1. Quels sont les principaux moyens de transport en commun ici ?",
+        "2. Où puis-je acheter un abonnement pour les transports en commun ?",
+        "3. Quels types d’abonnements sont disponibles ?",
+        "4. Y a-t-il des réductions pour les nouveaux arrivants ?",
+        "5. Combien coûte un abonnement mensuel ?",
+        "6. Les horaires des bus et des trains sont-ils fiables ?",
+        "7. Où puis-je trouver les horaires des bus et des trains ?",
+        "8. Les transports en commun fonctionnent-ils bien en hiver ?",
+        "9. Existe-t-il des applications pour suivre les transports en temps réel ?",
+        "10. Les arrêts de bus et de train sont-ils bien signalés ?",
+        "11. Y a-t-il des lignes directes pour le centre-ville ?",
+        "12. Les transports en commun sont-ils sécurisés ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Je mets en vente un vélo électrique. Vous souhaitez en savoir plus et vous me posez des questions (tarif, couleur, type, état, etc.).",
+      "questions": [
+        "1. Combien tu le vends, ton vélo électrique ?",
+        "2. Quelle est la couleur de ton vélo ?",
+        "3. C’est quoi le modèle exact ?",
+        "4. Depuis combien de temps tu l’as ?",
+        "5. Il est en bon état ?",
+        "6. Tu sais combien de kilomètres il a déjà parcourus ?",
+        "7. Est-ce que tu as encore la garantie ?",
+        "8. Pourquoi tu le vends, en fait ?",
+        "9. La batterie tient combien de temps ?",
+        "10. Il est compatible avec quels types de chemins ?",
+        "11. Est-ce que tu as tous les accessoires, genre le chargeur et les clés ?",
+        "12. Il est lourd à porter, ton vélo ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e) au Canada. Je fais du ski de fond. Vous voulez des informations sur ce sport et vous me posez des questions (tarifs, équipement, tenue, cours, etc.).",
+      "questions": [
+        "1. Combien ça coûte, de faire du ski de fond au Canada ?",
+        "2. Il y a des services de location d’équipements ?",
+        "3. Tu connais des endroits sympas pour débuter ?",
+        "4. Est-ce qu’il y a des cours pour les débutants ?",
+        "5. On peut louer les vêtements sur place ?",
+        "6. C’est quoi l’équipement de base qu’il faut ?",
+        "7. Tu penses que c’est difficile à apprendre ?",
+        "8. Tu as des marques de ski à recommander ?",
+        "9. Combien de temps dure une séance de ski de fond, en général ?",
+        "10. Tu vas souvent skier, toi ?",
+        "11. Les pistes sont comment, bien entretenues ?",
+        "12. Il faut une assurance spéciale pour faire du ski de fond ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Vous allez garder vos neveux. Vous me demandez des conseils pour les occuper (jeux, sorties, activités, etc.).",
+      "questions": [
+        "1. Tu as des idées d’activités à faire avec des enfants ?",
+        "2. Qu’est-ce qu’ils aiment manger, à ton avis ?",
+        "3. Est-ce qu’il y a des endroits à éviter avec des enfants ?",
+        "4. Tu connais des parcs sympas où les emmener ?",
+        "5. C’est mieux de prévoir des jeux de société ou des jeux en plein air ?",
+        "6. Ils aiment plutôt les films ou les dessins animés ?",
+        "7. Il y a des musées pour enfants intéressants dans le coin ?",
+        "8. Tu penses que c’est utile de prévoir des horaires fixes pour les repas ?",
+        "9. Qu’est-ce qu’on peut faire s’il pleut ?",
+        "10. Tu crois qu’ils vont s’ennuyer vite ?",
+        "11. Tu connais des recettes faciles à faire avec des enfants ?",
+        "12. Combien de temps je devrais prévoir pour les activités chaque jour ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je travaille à l’accueil de la mairie. Vous venez de vous installer au Canada. Vous me demandez des renseignements (logement, formalités, services municipaux, etc.).",
+      "questions": [
+        "1. Pouvez-vous m’aider à m’inscrire au registre des résidents ?",
+        "2. Où puis-je trouver des informations sur les services municipaux ?",
+        "3. Y a-t-il des cours de langue pour les nouveaux arrivants ?",
+        "4. Comment puis-je obtenir ma carte de résident ?",
+        "5. Quels sont les principaux événements locaux à ne pas manquer ?",
+        "6. Y a-t-il des associations pour rencontrer des gens ?",
+        "7. Où puis-je trouver des informations sur les écoles locales ?",
+        "8. Pouvez-vous me donner des informations sur les centres de santé locaux ?",
+        "9. Comment fonctionne la collecte des déchets dans cette ville ?",
+        "10. Y a-t-il des parcs ou des espaces verts à proximité ?",
+        "11. Quels sont les jours de marché dans la ville ?",
+        "12. Où puis-je trouver des informations sur les transports en commun ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je produis des fruits et légumes biologiques. Je les vends directement aux particuliers. Vous êtes intéressé(e) et vous me posez des questions pour connaître les prix, les produits, la livraison, etc.",
+      "questions": [
+        "1. Quels types de fruits et légumes proposez-vous actuellement ?",
+        "2. Sont-ils tous de saison ?",
+        "3. Vos produits sont-ils certifiés bio ?",
+        "4. Quels sont vos prix, en général ?",
+        "5. Avez-vous des paniers déjà composés ?",
+        "6. Peut-on choisir les produits à l’unité ?",
+        "7. Livrez-vous à domicile ?",
+        "8. Y a-t-il un montant minimum pour la livraison ?",
+        "9. Quels sont les jours de livraison ?",
+        "10. Est-ce qu’on peut venir récupérer les produits chez vous ?",
+        "11. Peut-on commander en ligne ou par téléphone ?",
+        "12. Faites-vous des promotions ou abonnements réguliers ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e) et je m’engage dans une association qui soutient les personnes âgées. Vous souhaitez en savoir plus et vous me posez des questions (type d’activités, public concerné, comment s’inscrire, etc.).",
+      "questions": [
+        "1. Depuis quand fais-tu du bénévolat dans cette association ?",
+        "2. Quelles sont les principales activités que vous proposez ?",
+        "3. Est-ce que les bénévoles accompagnent les personnes âgées à domicile ?",
+        "4. Quel type de public vous aidez exactement ?",
+        "5. Est-ce que vous organisez aussi des sorties ou des événements ?",
+        "6. Combien de temps faut-il s’engager par semaine ?",
+        "7. Est-ce qu’il faut avoir une formation ou une expérience particulière ?",
+        "8. Comment se passe l’inscription pour devenir bénévole ?",
+        "9. Y a-t-il une période d’essai ou de découverte ?",
+        "10. Est-ce que vous travaillez en équipe ou seul avec les personnes âgées ?",
+        "11. L’ambiance est sympa dans l’association ?",
+        "12. Tu penses que je pourrais être utile même si je n’ai jamais fait de bénévolat ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre collègue. J’ai passé dix ans au Canada. Vous pensez partir vivre à Ottawa. Vous me posez des questions sur mon expérience d’intégration (se loger, travailler, s’adapter à la culture, etc.).",
+      "questions": [
+        "1. Comment s’est passée votre installation à Ottawa ?",
+        "2. Avez-vous eu des difficultés pour trouver un logement ?",
+        "3. Les loyers sont-ils chers dans cette ville ?",
+        "4. Est-ce facile de trouver du travail là-bas ?",
+        "5. Dans quels secteurs y a-t-il le plus d’opportunités ?",
+        "6. Les démarches administratives sont-elles compliquées ?",
+        "7. Avez-vous eu un bon accueil de la part des Canadiens ?",
+        "8. Comment est la vie quotidienne à Ottawa ?",
+        "9. Le climat est-il vraiment difficile en hiver ?",
+        "10. Est-ce que la ville est adaptée aux familles ?",
+        "11. Avez-vous eu du mal à vous adapter à la culture ?",
+        "12. Recommanderiez vous Ottawa pour une première installation au Canada ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e). J’ai visité le zoo le week-end dernier. Vous pensez y aller en famille. Vous me posez des questions pour préparer votre sortie (jour, animaux à voir, prix, etc.).",
+      "questions": [
+        "1. Quel zoo avez-vous visité le week-end dernier ?",
+        "2. Est-ce qu’il est grand ?",
+        "3. Quels animaux avez-vous vus ?",
+        "4. Y a-t-il des espèces rares ou impressionnantes ?",
+        "5. Combien coûte l’entrée par personne ?",
+        "6. Est-ce gratuit pour les enfants ?",
+        "7. Y a-t-il des restaurants ou des aires de pique-nique ?",
+        "8. Faut-il réserver à l’avance ?",
+        "9. Combien de temps faut-il prévoir pour la visite ?",
+        "10. Le zoo est-il bien organisé pour les familles ?",
+        "11. Est-ce qu’il y avait beaucoup de monde ?",
+        "12. Recommanderiez vous cette sortie pour un dimanche en famille ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis employé(e) dans une agence de voyages. Vous souhaitez partir au Canada pour profiter des sports d’hiver. Vous me posez des questions (activités, hébergements, tarifs, etc.).",
+      "questions": [
+        "1. Quels sont les endroits les plus populaires pour faire du ski au Canada ?",
+        "2. Proposez-vous des séjours organisés ?",
+        "3. Quelles sont les activités disponibles en dehors du ski ?",
+        "4. Peut-on louer le matériel sur place ?",
+        "5. Quels types de logements proposez-vous ?",
+        "6. Les hébergements sont-ils proches des pistes ?",
+        "7. Avez-vous des offres spéciales pour les familles ?",
+        "8. Combien coûte un séjour d’une semaine environ ?",
+        "9. Est-ce qu’il y a des formules tout compris ?",
+        "10. À quelle période conseillez-vous de partir ?",
+        "11. Les stations sont-elles adaptées aux débutants ?",
+        "12. Peut-on réserver directement avec vous ou en ligne ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je travaille à la réception d’une école de musique. Vous voulez vous inscrire à des cours. Vous me posez des questions sur ce que l’école propose (leçons, prix, emploi du temps, instruments, etc.).",
+      "questions": [
+        "1. Quels types de cours proposez-vous à l’école de musique?",
+        "2. Quels sont les tarifs pour les cours individuels et collectifs?",
+        "3. Quels instruments de musique pouvez-vous apprendre ici?",
+        "4. Quels sont les horaires d’ouverture de l’école de musique?",
+        "5. Proposez-vous des cours pour débutants?",
+        "6. Les cours sont-ils adaptés pour les enfants et les adultes?",
+        "7. Faut-il acheter son propre instrument ou pouvez-vous en louer?",
+        "8. Comment se déroule l’inscription aux cours de musique?",
+        "9. Est-il possible de faire un cours d’essai gratuit?",
+        "10. Quelle est la durée moyenne des cours de musique?",
+        "11. Avez-vous des professeurs spécialisés pour chaque instrument?",
+        "12. Organisez-vous des concerts ou des événements pour les élèves?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e) et j’habite à Ottawa. Vous venez d’arriver dans la ville et vous souhaitez circuler à vélo. Vous me posez des questions pour savoir si c’est pratique (pistes, location, matériel, etc.).",
+      "questions": [
+        "1. Y a-t-il beaucoup de pistes cyclables à Ottawa?",
+        "2. Les pistes cyclables sont-elles sécurisées?",
+        "3. Connais-tu des agences de location de vélos en ville?",
+        "4. Est-ce que c’est facile de trouver des stations de vélos en libre-service?",
+        "5. Les voitures respectent-elles bien les cyclistes ici?",
+        "6. Y a-t-il des endroits spécifiques où il est agréable de faire du vélo?",
+        "7. Dois-je porter un casque en vélo à Ottawa?",
+        "8. Les pistes cyclables sont-elles bien entretenues en hiver?",
+        "9. Peux-tu me recommander une bonne carte des pistes cyclables?",
+        "10. Est-ce qu’il y a des groupes de cyclistes auxquels je pourrais me joindre?",
+        "11. Y a-t-il des événements cyclistes réguliers en ville?",
+        "12. As-tu des conseils pour éviter les zones trop fréquentées par les voitures?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Vous avez envie de partir un week-end pour vous reposer. Vous me posez des questions pour avoir des suggestions (endroits, activités, transport, etc.).",
+      "questions": [
+        "1. Quel endroit me recommanderais-tu pour un week-end reposant?",
+        "2. Connais-tu des hôtels ou des auberges sympas pour se détendre?",
+        "3. Y a-t-il des activités de plein air que je pourrais faire?",
+        "4. Quelle est la meilleure façon de s’y rendre?",
+        "5. Est-ce qu’il y a des spas ou des centres de bien-être à recommander?",
+        "6. As-tu des conseils pour des endroits moins touristiques et plus tranquilles?",
+        "7. Quelles sont les spécialités culinaires locales que je devrais essayer?",
+        "8. Y a-t-il des sentiers de randonnée ou des parcs naturels à découvrir?",
+        "9. Penses-tu qu’il vaut mieux partir en voiture ou en train?",
+        "10. Connais-tu des marchés locaux ou des événements spéciaux ce week-end-là?",
+        "11. Quels sont les meilleurs moments de la journée pour profiter des attractions locales?",
+        "12. As-tu des recommandations pour des livres ou de la musique à emporter pour se détendre?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Je vis au Canada depuis deux ans. Vous êtes en train de préparer votre arrivée au Canada. Vous me posez des questions sur mon vécu (habitudes, vie courante, adaptation, etc.).",
+      "questions": [
+        "1. Comment s’est passée ton adaptation au Canada?",
+        "2. Quelles ont été les plus grandes différences culturelles que tu as remarquées?",
+        "3. As-tu trouvé la vie quotidienne très différente de celle dans ton pays d’origine?",
+        "4. Quels conseils pourrais-tu me donner pour réussir mon immigration?",
+        "5. Y a-t-il des démarches administratives qui t’ont semblé particulièrement compliquées?",
+        "6. Comment as-tu trouvé un logement en arrivant?",
+        "7. As-tu eu des difficultés à t’intégrer socialement?",
+        "8. Quelle est la meilleure façon de se faire des amis ici?",
+        "9. As-tu des astuces pour bien gérer le climat, surtout l’hiver?",
+        "10. Y a-t-il des ressources ou des associations qui t’ont aidé dans ton installation?",
+        "11. Comment as-tu trouvé ton premier emploi au Canada?",
+        "12. Qu’est-ce qui t’a le plus surpris en arrivant ici?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e). Je connais une personne qui fait des petits services à domicile. Vous voulez en savoir plus et vous me posez des questions (compétences, horaires, tarifs, etc.).",
+      "questions": [
+        "1. Quelle est l’expérience de cette personne dans les petits travaux?",
+        "2. Quels types de travaux peut-elle réaliser?",
+        "3. Est-elle disponible en soirée ou seulement en journée?",
+        "4. Quels sont ses tarifs pour les différents types de travaux?",
+        "5. Est-ce qu’elle facture à l’heure ou au projet?",
+        "6. A-t-elle des références ou des avis de clients précédents?",
+        "7. Fournit-elle les matériaux nécessaires pour les travaux?",
+        "8. Comment puis-je la contacter pour discuter de mon projet?",
+        "9. Est-ce qu’elle propose des devis gratuits?",
+        "10. Quelle est sa disponibilité générale, peut-elle intervenir rapidement?",
+        "11. A-t-elle une assurance en cas de dommages ou de malfaçons?",
+        "12. Est-elle flexible quant aux horaires et dates de réalisation des travaux?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e) et je vous invite à assister à un concert avec moi. Vous souhaitez en savoir plus et vous me posez des questions sur le concert (genre de musique, endroit, date, etc.).",
+      "questions": [
+        "1. Quel type de musique est-ce qu’ils jouent au concert ?",
+        "2. Où est-ce que le concert va avoir lieu ?",
+        "3. Quelle est la date du concert ?",
+        "4. À quelle heure commence le concert ?",
+        "5. Combien coûtent les billets ?",
+        "6. Est-ce que tu as déjà écouté ce groupe ou cet artiste en live ?",
+        "7. Combien de temps dure le concert ?",
+        "8. Est-ce que c’est en plein air ou à l’intérieur ?",
+        "9. Y aura-t-il d’autres groupes ou artistes qui se produisent ?",
+        "10. Est-ce qu’on peut acheter des billets sur place ou il faut les prendre à l’avance ?",
+        "11. Est-ce qu’il y aura des stands de nourriture ou de boissons ?",
+        "12. Comment est-ce qu’on va s’y rendre ? En voiture ou en transport en commun ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). J’ai participé à un atelier de cuisine. Vous êtes intéressé(e) à y assister. Vous me demandez des informations sur cet atelier (tarifs, horaires, programme, etc.).",
+      "questions": [
+        "1. Combien coûte le cours de cuisine ?",
+        "2. Quels sont les horaires des cours ?",
+        "3. Où est-ce que les cours ont lieu ?",
+        "4. Quel est le programme du cours ?",
+        "5. Combien de temps dure chaque session ?",
+        "6. Est-ce que tout le matériel est fourni ou faut-il apporter quelque chose ?",
+        "7. Quel type de cuisine est enseigné ?",
+        "8. Qui est le chef ou l’instructeur du cours ?",
+        "9. Combien de personnes participent en général à chaque session ?",
+        "10. Est-ce qu’il y a des niveaux différents (débutant, intermédiaire, avancé) ?",
+        "11. Peut-on goûter ce qu’on cuisine pendant le cours ?",
+        "12. Est-ce que le cours donne des recettes écrites à la fin de chaque session ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre collègue de travail. Vous venez d’arriver à Toronto. Vous voulez organiser votre anniversaire dans un bon restaurant. Vous me posez des questions concernant les restaurants en ville (style culinaire, prix, ambiance, etc.).",
+      "questions": [
+        "1. Quels sont les meilleurs restaurants pour fêter un anniversaire à Toronto ?",
+        "2. Pouvez-vous me recommander un restaurant avec une bonne ambiance festive ?",
+        "3. Connaissez-vous des restaurants qui proposent des menus spéciaux pour les anniversaires ?",
+        "4. Quels sont les restaurants avec les meilleures spécialités locales ?",
+        "5. Y a-t-il des restaurants offrant une belle vue sur la ville ?",
+        "6. Pouvez-vous me dire quels restaurants sont les plus abordables ?",
+        "7. Quels sont les restaurants les plus populaires auprès des habitants ?",
+        "8. Savez-vous si certains restaurants offrent des réductions pour les groupes ?",
+        "9. Pouvez-vous recommander un bon restaurant italien/français/japonais, etc. ?",
+        "10. Y a-t-il des restaurants végétariens ou végétaliens de qualité à Toronto ?",
+        "11. Quels restaurants ont les meilleurs desserts ?",
+        "12. Pouvez-vous me dire quels restaurants nécessitent une réservation à l’avance ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e). Vous venez de vous installer à Edmonton. Vous désirez inscrire vos enfants à l’école. Vous me demandez des renseignements sur les écoles du quartier (emplacement, enseignants, activités, etc.).",
+      "questions": [
+        "1. Pouvez-vous me donner les adresses des écoles du quartier ?",
+        "2. Quelles sont les meilleures écoles primaires dans la région ?",
+        "3. Pouvez-vous me parler des enseignants de l’école la plus proche ?",
+        "4. Y a-t-il des écoles avec des programmes bilingues ?",
+        "5. Quelles activités périscolaires sont proposées par les écoles ici ?",
+        "6. Les écoles ont-elles des programmes sportifs ?",
+        "7. Y a-t-il des écoles spécialisées pour les enfants ayant des besoins particuliers ?",
+        "8. Connaissez-vous les horaires des écoles primaires ?",
+        "9. Y a-t-il des programmes de musique ou d’art dans les écoles locales ?",
+        "10. Pouvez-vous me dire comment se passe l’inscription dans les écoles du quartier ?",
+        "11. Les écoles du quartier ont-elles une bonne réputation ?",
+        "12. Y a-t-il des écoles avec des classes de petite taille ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je fais partie du service des transports en commun de la ville. Vous venez d’arriver ici. Vous souhaitez vous renseigner et vous me posez des questions sur les moyens de transport, les prix, les horaires, etc.",
+      "questions": [
+        "1. Quels types de transports en commun sont disponibles dans la ville ?",
+        "2. Pouvez-vous me donner une idée des tarifs des transports en commun ?",
+        "3. Où puis-je acheter des tickets ou des abonnements ?",
+        "4. Y a-t-il des réductions pour les étudiants ou les personnes âgées ?",
+        "5. Quels sont les horaires des bus et des métros ?",
+        "6. Y a-t-il une application mobile pour suivre les horaires en temps réel ?",
+        "7. Où se trouve la station de métro/bus la plus proche de ma résidence ?",
+        "8. Quels sont les principaux trajets des lignes de bus ?",
+        "9. Pouvez-vous me dire si les transports en commun sont fiables et ponctuels ?",
+        "10. Y a-t-il des services de transport la nuit ?",
+        "11. Est-ce que les transports en commun sont accessibles aux personnes à mobilité réduite ?",
+        "12. Y a-t-il des cartes touristiques pour les visiteurs qui utilisent souvent les transports en commun ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). J’ai été candidat(e) dans un jeu télévisé. Vous êtes curieux(se) et vous me posez des questions à ce sujet (organisation, ambiance, intérêt personnel, etc.).",
+      "questions": [
+        "1. Comment tu t’es inscrit(e) à ce jeu télévisé ?",
+        "2. Tu as été sélectionné(e) rapidement ou c’était long ?",
+        "3. Tu étais stressé(e) avant de passer à la télé ?",
+        "4. L’ambiance sur le plateau, c’était comment ?",
+        "5. Tu as rencontré des gens sympas pendant l’émission ?",
+        "6. Les épreuves étaient difficiles ?",
+        "7. Tu t’étais préparé(e) avant l’émission ?",
+        "8. Tu as gagné quelque chose ?",
+        "9. Est-ce que tu referais ce genre d’expérience ?",
+        "10. Qu’est-ce qui t’a le plus marqué pendant le tournage ?",
+        "11. Tu es passé(e) à la télé à quelle heure ?",
+        "12. Est-ce que ta famille ou tes amis t’ont regardé(e) à la télé ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Vous pensez vous installer dans ma ville. Vous me posez des questions sur les différents quartiers (atmosphère, niveau de vie, transports, etc.).",
+      "questions": [
+        "1. Tu me recommanderais quel quartier pour vivre ?",
+        "2. C’est plutôt calme ou animé chez toi ?",
+        "3. Est-ce que les loyers sont chers dans ta ville ?",
+        "4. Il y a des transports en commun pratiques ?",
+        "5. Tu te sens en sécurité dans ton quartier ?",
+        "6. Il y a des commerces et supermarchés à proximité ?",
+        "7. Et pour sortir le soir, il y a des endroits sympas ?",
+        "8. Tu connais des quartiers à éviter ?",
+        "9. Les gens sont accueillants dans ta ville ?",
+        "10. Il y a des parcs ou des endroits pour se promener ?",
+        "11. Est-ce que c’est une ville agréable à vivre toute l’année ?",
+        "12. Tu penses que je pourrais m’y sentir bien ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e). J’anime des séances de sport dans un centre social du quartier. Vous êtes intéressé(e) et vous voulez en savoir plus (types de cours, organisation, niveau, etc.).",
+      "questions": [
+        "1. Quels types de cours de sport proposez-vous ?",
+        "2. À quels horaires ont lieu les cours ?",
+        "3. Est-ce qu’il faut un bon niveau pour participer ?",
+        "4. Y a-t-il des cours pour débutants ?",
+        "5. Combien de personnes participent en général ?",
+        "6. Faut-il s’inscrire à l’avance ?",
+        "7. Quels sont les tarifs des cours ?",
+        "8. Faut-il apporter son propre matériel ?",
+        "9. Est-ce qu’il y a des cours le week-end ?",
+        "10. Les cours sont-ils en intérieur ou en extérieur ?",
+        "11. Depuis combien de temps donnez-vous ces cours ?",
+        "12. Est-ce que je peux venir essayer une séance avant de m’inscrire ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis employé(e) dans une entreprise de location de vélos au Canada. En tant que touriste, vous vous renseignez sur les possibilités pour faire une balade à vélo (types de vélos, durée, prix, sécurité, etc.).",
+      "questions": [
+        "1. Quels types de vélos proposez-vous à la location ?",
+        "2. Avez-vous des vélos électriques ?",
+        "3. Quelles sont les conditions pour louer un vélo ?",
+        "4. Faut-il réserver à l’avance ?",
+        "5. Quels sont les tarifs pour une journée ?",
+        "6. Y a-t-il des réductions pour plusieurs jours ?",
+        "7. Fournissez-vous un casque avec le vélo ?",
+        "8. Est-ce qu’on peut avoir un antivol ?",
+        "9. Avez-vous des vélos pour enfants ou pour familles ?",
+        "10. Peut-on rendre le vélo dans une autre agence ?",
+        "11. Que faire en cas de panne ou de crevaison ?",
+        "12. Y a-t-il un plan des pistes cyclables disponible ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis employé(e) dans une agence de voyages. Vous êtes intéressé(e) par une croisière au Canada et vous cherchez des renseignements (prix, conditions, services, activités incluses, etc.).",
+      "questions": [
+        "1. Quelles croisières proposez-vous au Canada ?",
+        "2. Quelle est la durée moyenne d’une croisière ?",
+        "3. Quelles villes ou régions sont visitées ?",
+        "4. Quels types d’activités sont proposés à bord ?",
+        "5. Les repas sont-ils inclus dans le prix ?",
+        "6. Y a-t-il des cabines avec vue sur la mer ?",
+        "7. Quels sont les tarifs pour une croisière d’une semaine ?",
+        "8. Proposez-vous des offres spéciales pour les familles ?",
+        "9. À quelle période de l’année les croisières sont-elles disponibles ?",
+        "10. Faut-il un passeport ou des documents spécifiques ?",
+        "11. Les croisières sont-elles adaptées aux enfants ou aux personnes âgées ?",
+        "12. Est-ce que vous organisez aussi des excursions lors des escales ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je travaille à l’accueil d’un bureau d’information pour les associations locales. Vous souhaitez vous engager comme bénévole et vous vous renseignez sur les possibilités (types d’actions, public visé, horaires, etc.).",
+      "questions": [
+        "1. Pouvez-vous me donner une liste des associations disponibles dans mon quartier ?",
+        "2. Quels sont les différents types d’associations auxquelles je pourrais participer ?",
+        "3. Quelles sont les activités générales que les associations proposent ?",
+        "4. Est-ce qu’il y a des associations spécifiquement dédiées à certaines tranches d’âge ?",
+        "5. Y a-t-il des associations qui nécessitent un engagement régulier ou des horaires flexibles ?",
+        "6. Pourriez-vous me donner des informations sur les associations qui travaillent avec des personnes dans le besoin ?",
+        "7. Existe-t-il des associations axées sur des causes spécifiques telles que l’environnement ou la santé ?",
+        "8. Comment puis-je savoir si une association est adaptée à mes intérêts et à mes compétences ?",
+        "9. Y a-t-il des associations qui organisent des événements ponctuels ou des projets à court terme ?",
+        "10. Quels sont les avantages de devenir bénévole dans une association de notre quartier ?",
+        "11. Y a-t-il des formations ou des orientations disponibles pour les nouveaux bénévoles ?",
+        "12. Comment puis-je m’inscrire ou postuler pour devenir bénévole dans une association ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis enseignant de français. Vous cherchez un professeur pour des cours individuels. Vous vous renseignez sur mon parcours, mes méthodes pédagogiques et mes prix.",
+      "questions": [
+        "1. Depuis combien de temps enseignez-vous le français aux nouveaux arrivants ?",
+        "2. Quelle est votre approche pédagogique pour enseigner le français à des personnes débutantes ?",
+        "3. Avez-vous de l’expérience à travailler avec des étudiants ayant des niveaux différents en français ?",
+        "4. Utilisez-vous des manuels ou des ressources spécifiques pour vos cours particuliers ?",
+        "5. Proposez-vous des exercices de pratique de la langue orale et écrite ?",
+        "6. Comment évaluez-vous le progrès des étudiants au fil des leçons ?",
+        "7. Y a-t-il des horaires fixes pour les cours particuliers ou pouvez-vous vous adapter à mes disponibilités ?",
+        "8. Quels sont vos tarifs pour les cours particuliers de français ?",
+        "9. Offrez-vous des cours individuels ou en petit groupe ?",
+        "10. Avez-vous des recommandations ou des témoignages d’anciens élèves ?",
+        "11. Proposez-vous des cours de français axés sur des domaines spécifiques comme le travail ou les études ?",
+        "12. Quelles sont vos attentes vis-à-vis de vos étudiants en termes d’engagement et de participation aux cours ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis un(e) ami(e) canadien(ne). J’ai passé des vacances en montagne récemment. Vous me posez des questions sur ce séjour (lieu exact, randonnées, logement, ambiance, etc.).",
+      "questions": [
+        "1. Salut ! C’était comment tes vacances à la montagne ?",
+        "2. Où exactement es-tu parti en vacances ?",
+        "3. Quels types d’activités as-tu fait là-bas ?",
+        "4. Comment était l’hébergement où tu as séjourné ?",
+        "5. Est-ce que tu as eu de belles vues sur les montagnes ?",
+        "6. Y avait-il des sentiers de randonnée ou des pistes de ski à proximité ?",
+        "7. Quel temps faisait-il pendant ton séjour ?",
+        "8. Est-ce que tu as découvert des endroits sympas pour manger ou prendre un verre ?",
+        "9. As-tu rencontré des gens intéressants pendant tes vacances ?",
+        "10. Qu’est-ce qui t’a le plus marqué pendant ton séjour à la montagne ?",
+        "11. As-tu des conseils à me donner si je veux aussi partir en vacances à la montagne ?",
+        "12. Est-ce que tu comptes y retourner bientôt ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Je fais du théâtre régulièrement. Vous êtes intéressé(e) et vous me posez des questions pratiques avant de vous inscrire (inscription, ambiance, planning, etc.).",
+      "questions": [
+        "1. Salut ! Ça se passe comment tes cours de théâtre ?",
+        "2. Où est-ce que tu prends tes cours de théâtre ?",
+        "3. Quels sont les tarifs pour les cours de théâtre ?",
+        "4. Est-ce que les horaires sont flexibles ou fixes ?",
+        "5. Combien de temps durent les cours en général ?",
+        "6. Est-ce que le groupe est nombreux ou plutôt restreint ?",
+        "7. Qui est ton professeur de théâtre et quel est son style d’enseignement ?",
+        "8. Est-ce que les cours sont adaptés aux débutants comme moi ?",
+        "9. Y a-t-il des représentations de fin d’année ou des projets spéciaux auxquels on participe ?",
+        "10. Est-ce qu’il faut apporter quelque chose en particulier pour les cours ?",
+        "11. Comment se déroule une séance de cours typique ?",
+        "12. Est-ce que tu apprécies vraiment tes cours de théâtre ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e) et vous venez d’emménager au Québec. Lors d’un apéritif, vous me posez des questions sur la vie dans notre quartier (tranquillité, associations, équipements, etc.).",
+      "questions": [
+        "1. Pouvez-vous me parler des voisins du quartier ?",
+        "2. Y a-t-il des événements communautaires ou des activités régulières organisées dans le quartier ?",
+        "3. Quels sont les principaux services à proximité comme les épiceries, les pharmacies, ou les centres de loisirs ?",
+        "4. Pourriez-vous me donner des informations sur les transports en commun dans le quartier ?",
+        "5. Est-ce qu’il y a des parcs ou des espaces verts où les habitants du quartier se retrouvent ?",
+        "6. Existe-t-il des clubs ou des groupes locaux auxquels je pourrais participer ?",
+        "7. Comment est l’ambiance générale dans le quartier ?",
+        "8. Y a-t-il des initiatives de quartier ou des projets communautaires dont je devrais être au courant ?",
+        "9. Quels sont les services de santé disponibles à proximité ?",
+        "10. Est-ce qu’il y a des restaurants ou des cafés populaires dans le quartier ?",
+        "11. Y a-t-il des endroits spécifiques où je pourrais obtenir des informations sur la vie du quartier ?",
+        "12. Comment puis-je m’impliquer davantage dans la communauté locale ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e), je viens d’aller voir un film au cinéma. Vous me posez des questions pour savoir si ce film vous plairait (histoire, acteurs, horaires, etc.).",
+      "questions": [
+        "1. C’était quel genre de film ?",
+        "2. Tu as aimé l’histoire ?",
+        "3. Les acteurs jouent bien ?",
+        "4. Il y avait des moments drôles ou tristes ?",
+        "5. Tu trouves que le film est adapté à tout le monde ?",
+        "6. Est-ce que le rythme du film t’a semblé bon ?",
+        "7. Tu le recommanderais ?",
+        "8. Est-ce que les images et la musique étaient bien faites ?",
+        "9. Tu l’as vu en version originale ou doublée ?",
+        "10. Le film dure combien de temps ?",
+        "11. Il passe encore au cinéma cette semaine ?",
+        "12. À quelle séance tu es allé ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e). Je vais souvent à la piscine municipale. Vous êtes intéressé(e). Vous me posez des questions sur cette piscine (installations, prix, horaires, etc.).",
+      "questions": [
+        "1. Quelles sont les installations principales de la piscine municipale ?",
+        "2. Quels sont les horaires d’ouverture de la piscine ?",
+        "3. Y a-t-il des cours de natation disponibles ?",
+        "4. Quels sont les tarifs d’entrée à la piscine ?",
+        "5. Est-ce qu’il y a des vestiaires et des douches disponibles ?",
+        "6. La piscine dispose-t-elle d’un espace pour les enfants ?",
+        "7. Est-il nécessaire de réserver à l’avance pour accéder à la piscine ?",
+        "8. Y a-t-il un parking disponible à proximité ?",
+        "9. Est-ce qu’il y a un café ou une buvette sur place ?",
+        "10. Quelles sont les règles concernant l’utilisation des équipements ?",
+        "11. Est-ce que la piscine propose des événements spéciaux ou des activités aquatiques ?",
+        "12. Comment est l’affluence généralement durant la semaine et le week-end ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e) au Canada. Vous venez me voir en décembre. Vous me posez des questions pour bien préparer ce voyage (activités, vêtements, météo, etc.).",
+      "questions": [
+        "1. Quel temps fait-il au Canada en décembre ?",
+        "2. Est-ce qu’il neige beaucoup à cette période ?",
+        "3. Tu me conseilles quoi comme vêtements ?",
+        "4. Est-ce que je dois prévoir des chaussures spéciales ?",
+        "5. Quelles activités peut-on faire en hiver là-bas ?",
+        "6. Est-ce qu’on peut faire du ski ou de la luge ?",
+        "7. Tu sais s’il y a des événements ou des festivals en décembre ?",
+        "8. Est-ce qu’il y a des marchés de Noël ?",
+        "9. Est-ce que les journées sont longues ou courtes ?",
+        "10. Tu penses que je devrais emmener des médicaments pour le froid ?",
+        "11. On va beaucoup marcher ?",
+        "12. Tu peux venir me chercher à l’aéroport ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre ami(e). Je vis en colocation et une chambre est libre. Vous êtes intéressé(e). Vous me posez des questions sur le logement (loyer, pièces, colocataires, etc.).",
+      "questions": [
+        "1. La chambre est meublée ?",
+        "2. Le loyer est de combien par mois ?",
+        "3. Est-ce que les charges sont comprises ?",
+        "4. Il y a combien de pièces dans l’appartement ?",
+        "5. C’est calme ou plutôt animé comme logement ?",
+        "6. Qui sont les autres colocataires ?",
+        "7. Est-ce que chacun a sa salle de bain ou c’est partagé ?",
+        "8. La cuisine est bien équipée ?",
+        "9. Il y a une connexion Internet ?",
+        "10. Est-ce qu’il y a des règles dans la colocation ?",
+        "11. Le quartier est bien situé ?",
+        "12. Est-ce que je peux visiter bientôt ?"
+      ],
+      "sample_answers": []
+    },
+    {
+      "title": "Je suis votre voisin(e). Vous venez d’arriver dans le quartier. Vous me posez des questions pour le découvrir (commerces, ambiance, services, etc.).",
+      "questions": [
+        "1. Quels sont les commerces principaux dans le quartier ?",
+        "2. Y a-t-il des parcs ou des espaces verts à proximité ?",
+        "3. Quelle est l’ambiance générale du quartier ?",
+        "4. Y a-t-il des restaurants recommandés que vous pourriez me conseiller ?",
+        "5. Quels sont les services disponibles à proximité (médecins, pharmacies, etc.) ?",
+        "6. Est-ce que le quartier est bien desservi par les transports en commun ?",
+        "7. Quelles sont les écoles ou les garderies dans le quartier ?",
+        "8. Y a-t-il des événements communautaires ou des activités régulières ?",
+        "9. Quelle est la sécurité du quartier ?",
+        "10. Est-ce qu’il y a un marché local ou des magasins de produits frais ?",
+        "11. Comment sont les voisins dans le quartier ?",
+        "12. Est-ce qu’il y a des projets ou des développements futurs prévus pour le quartier ?"
+      ],
+      "sample_answers": []
+    }
+  ],
+  "month_label": "Juillet 2025",
+  "correction_url": "https://reussir-tcfcanada.com/juillet-2025-correction-expression-orale-tache-2-pro/"
+}
